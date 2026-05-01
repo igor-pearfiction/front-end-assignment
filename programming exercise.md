@@ -113,10 +113,10 @@ And here's some other examples:
     Screen:
       lv1 hv1 lv1 hv1 hv1
       hv1 lv1 hv3 lv1 lv2
-      hv4 lv2 lv1 hv1 hv4
+      lv1 lv2 lv1 hv1 hv4
     Total wins: 7
     - payline 6, lv1 x4, 5
-    - payline 7, lv1 x3, 2
+    - payline 7, lv1 x4, 5
 
     Positions: 1, 16, 2, 15, 0
     Screen:
