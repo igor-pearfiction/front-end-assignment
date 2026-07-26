@@ -1,0 +1,20 @@
+{
+  "name": "assessment-pear-fiction",
+  "description": "A frontend assessment for Pear fiction studios",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest run --coverage"
+  },
+  "dependencies": {
+    "lil-gui": "^0.21.0",
+    "pixi.js": "^8.19.0"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.10",
+    "typescript": "^7.0.2",
+    "vite": "^8.1.5",
+    "vitest": "^4.1.10"
+  }
+}
